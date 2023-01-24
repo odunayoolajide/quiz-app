@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-quiz-game/static/js/main.cdaf3745.js",
+    "static/media/tree-nature.jpg": "/react-quiz-game/static/media/tree-nature.73a8ce851f3c391b312a.jpg",
+    "index.html": "/react-quiz-game/index.html",
+    "main.cdaf3745.js.map": "/react-quiz-game/static/js/main.cdaf3745.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cdaf3745.js"
+  ]
+}
