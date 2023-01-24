@@ -1,4 +1,4 @@
-You can find the live site on  https://odunayoolajide.github.io/quiz-app/ also on 
+You can find the live site on  https://odunayoolajide.github.io/quiz-app/ also on https://react-quizgame-typescript.netlify.app/
 
 
 # Getting Started with Create React App
